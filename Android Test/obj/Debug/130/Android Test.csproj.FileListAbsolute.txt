@@ -1,0 +1,37 @@
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\build.props
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\adb.props
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\Android Test.csproj.AssemblyReference.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\res.flag
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\50\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\57\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\58\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\59\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\60\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\61\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\62\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\64\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\65\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\70\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\71\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\72\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\74\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\75\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\76\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\77\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\78\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\81\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\84\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\87\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\89\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\92\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\93\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\94\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\95\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\96\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\97\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\lp\98\jl\files.cache
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\R.txt
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\R.cs.flag
+C:\Projects\AndroidApps\AndroidTest\Android Test\Android Test\obj\Debug\130\Android Test.csproj.CoreCompileInputs.cache
